@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">09-HabitTrackerApp</string>
+    <string name="debug_default_text">Debug will live here</string>
+    <string name="add_entry_button">Add random data</string>
+</resources>
